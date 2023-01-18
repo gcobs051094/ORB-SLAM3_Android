@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_mp_default">16dp</dimen>
+    <dimen name="layout_mp_xs">4dp</dimen>
+    <dimen name="layout_mp_xxs">1dp</dimen>
+</resources>

@@ -1,0 +1,143 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\CMakeLists.txt",
+    "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\jniUtil\\CMakeLists.txt",
+    "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\ORBSLAM\\CMakeLists.txt",
+    "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\hitomiDebug\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\user2\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\.cxx\\Debug\\494fcq6x\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\user2\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\.cxx\\Debug\\494fcq6x\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ORBSLAM-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\user2\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\.cxx\\Debug\\494fcq6x\\arm64-v8a",
+        "ORBSLAM"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ORBSLAM",
+      "output": "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\build\\intermediates\\cxx\\Debug\\494fcq6x\\obj\\arm64-v8a\\libORBSLAM.so",
+      "runtimeFiles": [
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\ORBSLAM\\libs\\arm64-v8a\\libORB_SLAM3.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\ORBSLAM\\libs\\arm64-v8a\\libDBoW2.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\ORBSLAM\\libs\\arm64-v8a\\libg2o.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\build\\intermediates\\cxx\\Debug\\494fcq6x\\obj\\arm64-v8a\\libOpenCV.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_core.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_imgproc.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_highgui.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_ml.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_features2d.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_flann.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_objdetect.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_calib3d.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_imgcodecs.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_photo.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_shape.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_stitching.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_superres.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_video.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_videoio.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_videostab.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_dnn.so"
+      ]
+    },
+    "OpenCV-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\user2\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\.cxx\\Debug\\494fcq6x\\arm64-v8a",
+        "OpenCV"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "OpenCV",
+      "output": "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\build\\intermediates\\cxx\\Debug\\494fcq6x\\obj\\arm64-v8a\\libOpenCV.so",
+      "runtimeFiles": [
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_core.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_imgproc.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_highgui.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_ml.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_features2d.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_flann.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_objdetect.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_calib3d.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_imgcodecs.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_photo.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_shape.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_stitching.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_superres.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_video.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_videoio.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_videostab.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_dnn.so"
+      ]
+    },
+    "hitomiDebug-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\user2\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\.cxx\\Debug\\494fcq6x\\arm64-v8a",
+        "hitomiDebug"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "hitomiDebug",
+      "output": "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\build\\intermediates\\cxx\\Debug\\494fcq6x\\obj\\arm64-v8a\\libhitomiDebug.so",
+      "runtimeFiles": [
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\build\\intermediates\\cxx\\Debug\\494fcq6x\\obj\\arm64-v8a\\libOpenCV.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\hitomiDebug\\libs\\arm64-v8a\\libHitomi.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_core.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_imgproc.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_highgui.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_ml.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_features2d.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_flann.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_objdetect.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_calib3d.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_imgcodecs.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_photo.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_shape.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_stitching.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_superres.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_video.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_videoio.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_videostab.so",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\src\\main\\cpp\\import\\OpenCV\\libs\\arm64-v8a\\libopencv_dnn.so"
+      ]
+    },
+    "SampleCpp-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\user2\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\.cxx\\Debug\\494fcq6x\\arm64-v8a",
+        "SampleCpp"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "SampleCpp",
+      "output": "D:\\Users\\user2\\Desktop\\hitomi-android\\app\\build\\intermediates\\cxx\\Debug\\494fcq6x\\obj\\arm64-v8a\\libSampleCpp.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/layout_mp_default"
+    tools:context=".activity.ModuleInvoke">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="220dp"
+        tools:layout_editor_absoluteY="-27dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/INVOKE_LOCAL_CPP"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClick_SampleCpp"
+                android:text="简单 C++ 函数" />
+
+            <Button
+                android:id="@+id/INVOKE_OPENCV"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClick_OpenCV"
+                android:text="测试OpenCV" />
+
+            <Button
+                android:id="@+id/INVOKE_FILE"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClick_File"
+                android:text="测试FILE" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

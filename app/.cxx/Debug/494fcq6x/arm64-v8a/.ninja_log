@@ -1,0 +1,11 @@
+# ninja log v5
+3	2784	694505018	CMakeFiles/SampleCpp.dir/SampleCpp.cpp.o	bc88a9c5f1c9f48c
+10	2956	694505018	import/OpenCV/CMakeFiles/OpenCV.dir/SampleOpenCV.cpp.o	62fb88620978936c
+15	3034	694505019	import/OpenCV/CMakeFiles/OpenCV.dir/importOpenCV.cpp.o	2614b158b29f1c8a
+20	3099	694505019	import/hitomiDebug/CMakeFiles/hitomiDebug.dir/hitomiDebug.cpp.o	6423eec9fbc4e98d
+3034	3392	694505019	D:/Users/user2/Desktop/hitomi-android/app/build/intermediates/cxx/Debug/494fcq6x/obj/arm64-v8a/libOpenCV.so	52b650395c3ad235
+2787	3470	694505019	D:/Users/user2/Desktop/hitomi-android/app/build/intermediates/cxx/Debug/494fcq6x/obj/arm64-v8a/libSampleCpp.so	cb8c3d517a8ce777
+3392	3643	694505019	D:/Users/user2/Desktop/hitomi-android/app/build/intermediates/cxx/Debug/494fcq6x/obj/arm64-v8a/libhitomiDebug.so	239d1fdcf08705c6
+30	14440	694505030	import/ORBSLAM/CMakeFiles/ORBSLAM.dir/nViewer.cpp.o	6a36d192c842058d
+25	16287	694505032	import/ORBSLAM/CMakeFiles/ORBSLAM.dir/importORBSLAM.cpp.o	cf7d0828e89a0ae2
+16287	16757	694505032	D:/Users/user2/Desktop/hitomi-android/app/build/intermediates/cxx/Debug/494fcq6x/obj/arm64-v8a/libORBSLAM.so	f29f26cc54ead6b8

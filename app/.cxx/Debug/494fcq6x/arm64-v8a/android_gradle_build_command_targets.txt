@@ -1,0 +1,10 @@
+Executable : C:\Users\user2\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\Users\user2\Desktop\hitomi-android\app\.cxx\Debug\494fcq6x\arm64-v8a
+ORBSLAM
+OpenCV
+SampleCpp
+hitomiDebug
+jvmArgs : 
+
