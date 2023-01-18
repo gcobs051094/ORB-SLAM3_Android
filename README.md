@@ -1,7 +1,7 @@
 # ORB-SLAM3_Android
 ORB-SLAM3_Android
 
-- [參考網站](https://nijiproject.coding.net/public/hitomi/hitomi-android/git/files/master)
+- [參考網站](https://nijiproject.coding.net/public/hitomi/hitomi-android/git/files/master)(要用git下載)
 - [影片](https://www.bilibili.com/video/BV1ph411x7d7/?spm_id_from=333.880.my_history.page.click&vd_source=603dede43e9c0950929be45b79be5591)
 
 克隆後，下載
