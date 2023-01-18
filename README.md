@@ -7,6 +7,7 @@ ORB-SLAM3_Android
 克隆後，下載
 - [ORBvoc.txt](https://drive.google.com/file/d/1LQOz3aXB91SkGG4i0_e-N18uxfRLoNN9/view?usp=share_link)
 - [libORB_SLAM3.so](https://drive.google.com/file/d/1o60_YrLrrL_iWDAjNdJv4Cj8A3SCNl06/view?usp=share_link)
+
 到以下路徑
-app/src/main/assets/ORBvoc.txt (138.52 MB) 
-app/src/main/cpp/import/ORBSLAM/libs/arm64-v8a/libORB_SLAM3.so (166.72 MB)
+- app/src/main/assets/ORBvoc.txt (138.52 MB) 
+- app/src/main/cpp/import/ORBSLAM/libs/arm64-v8a/libORB_SLAM3.so (166.72 MB)
